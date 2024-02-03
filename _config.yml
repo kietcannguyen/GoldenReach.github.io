@@ -30,7 +30,7 @@ color:
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
-Footer settings
+#Footer settings
 footer:
   copyright: Dr. Henry Jekyll
   location: Location
