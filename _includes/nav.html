@@ -27,6 +27,17 @@
         <li class="page-scroll">
           <a href="#contact">Contact</a>
         </li>
+
+        <!-- Add this part for social media links -->
+        {% for link in site.social %}
+          {% if link.url %}
+            <li class="page-scroll">
+              <a href="{{ link.url }}" target="_blank">{{ link.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+        <!-- End of social media links -->
+
       </ul>
     </div>
     <!-- /.navbar-collapse -->
