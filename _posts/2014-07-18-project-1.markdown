@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: GoldenReach Team
 date: 2014-07-18
 img: 1GoldenReach.jpg
 alt: image-alt
