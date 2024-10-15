@@ -254,34 +254,33 @@ section.success {
 
 /* Flexbox Portfolio Grid */
 @media (min-width: 640px) {
-    .portfolio-flex-grid .portfolio-flex-row {
-        display: flex;
-        flex-flow: row wrap;
-        align-items: stretch;
-        justify-content: space-between;
+    .portfolio-flex-grid {
+        display: flex; /* Make the flex container */
+        flex-wrap: wrap; /* Allow items to wrap */
+        justify-content: space-between; /* Evenly space items */
     }
-    .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
-        flex: 1 0 19%; /* Changed to 19% for 5 items per row */
-        max-width: 19%; /* Changed to 19% for 5 items per row */
-        margin-bottom: 20px; /* Optional: adds spacing between rows */
+
+    .portfolio-flex-item {
+        flex: 0 0 19%; /* 5 items per row, allowing for margins */
+        max-width: 19%; /* Ensure each item doesn't exceed this width */
+        margin-bottom: 20px; /* Spacing between rows */
     }
 }
 
 @media (min-width: 960px) {
-    .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
-        flex: 1 0 19%; /* Maintain 5 items per row */
-        max-width: 19%; /* Maintain 5 items per row */
+    .portfolio-flex-item {
+        flex: 0 0 19%; /* Keep 5 items per row */
+        max-width: 19%; /* Keep 5 items per row */
     }
 }
 
-/* Optional: Adjust for larger screens (you can uncomment and use if needed) */
-/* @media (min-width: 1380px) {
-    .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
-        flex: 1 0 19%; /* Maintain 5 items per row */
+/* Optional: Large screen adjustments */
+@media (min-width: 1380px) {
+    .portfolio-flex-item {
+        flex: 0 0 19%; /* Maintain 5 items per row */
         max-width: 19%; /* Maintain 5 items per row */
     }
-} */
-
+}
 
 .btn-outline {
     margin-top: 15px;
