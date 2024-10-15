@@ -6,6 +6,6 @@ img: 1GoldenReach.jpg
 alt: image-alt
 project-date: 2023
 client: Start Bootstrap
-category: GoldenReach Team
+service: GoldenReach Team
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil,
 ---
