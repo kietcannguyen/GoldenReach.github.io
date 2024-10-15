@@ -27,11 +27,6 @@
   font-variant: normal;
   line-height: 1;
   text-rendering: auto; }
-.portfolio-flex-grid {
-    display: grid;
-    grid-template-columns: repeat(5, 1fr); /* Creates exactly 5 equal-width columns */
-    grid-gap: 20px; /* Adds space between the items */
-}
 .fa-1x {
   font-size: 1em; }
 
