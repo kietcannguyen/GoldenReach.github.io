@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 7
-date: 2024-10-14
+date: 2014-07-15
 img: 7Claire T.jpg
 alt: image-alt
 project-date: April 2014
