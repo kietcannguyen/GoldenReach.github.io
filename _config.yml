@@ -39,10 +39,7 @@ footer:
 
 #Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url:
+
   - title: tiktok
     url: https://www.tiktok.com/@goldenreachorg?_t=8jafJD7LVkY&_r=1
   - title: instagram
@@ -54,7 +51,7 @@ address:
   - line: Houston, Texas
 
 #Credits content
-credits: 'Megan Nguyen - Kytlyn Bui'
+credits: 'Megan Nguyen & Kytlyn Bui'
 
 
 #Build settings
