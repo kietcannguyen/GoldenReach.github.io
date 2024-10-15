@@ -1,11 +1,10 @@
 ---
 layout: default
-modal-id: 2
+modal-id: GoldenReach Team
 date: 2023-02-24
 img: 1GoldenReach.jpg
 alt: image-alt
 project-date: 2023
-client: Start Bootstrap
-service: GoldenReach Team
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil,
+service: Golden Reach Team
+description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
