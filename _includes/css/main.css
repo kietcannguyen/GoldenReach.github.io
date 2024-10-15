@@ -248,7 +248,7 @@ section.success {
 
 @media(min-width:767px) {
     #portfolio .portfolio-item {
-        margin: 0 0 30px;
+        margin: 30 30 30px;
     }
 }
 
@@ -261,14 +261,14 @@ section.success {
       justify-content: space-between;
     }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
-      flex: 1 0 19%;
-      max-width: 19%;
+      flex: 1 0 20%;
+      max-width: 20%;
     }
   }
   @media (min-width: 960px) {
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
-      flex: 1 0 19%;
-      max-width: 19%;
+      flex: 1 0 20%;
+      max-width: 20%;
     }
   }
   /* A large grid might need four columns on widescreen layouts */
