@@ -2,7 +2,7 @@
 layout: default
 modal-id: Megan
 date: 2023-02-24
-img: 2Megan.jpg
+img: 
 alt: image-alt
 project-date: 2023
 service: President
