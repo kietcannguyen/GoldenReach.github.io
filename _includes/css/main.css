@@ -248,7 +248,7 @@ section.success {
 
 @media(min-width:767px) {
     #portfolio .portfolio-item {
-        margin: 0 0 10px;
+        margin: 0 0 30px;
     }
 }
 
@@ -259,25 +259,16 @@ section.success {
       flex-flow: row wrap;
       align-items: stretch;
       justify-content: space-between;
-      gap: 10px;
     }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
-      flex: 1 0 20%;
-      max-width: 20%;
+      flex: 1 0 18%;
+      max-width: 18%;
     }
   }
   @media (min-width: 960px) {
-      .portfolio-flex-grid .portfolio-flex-row {
-      display: flex;
-      flex-flow: row wrap;
-      align-items: stretch;
-      justify-content: space-between;
-      gap: 10px;
-    }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
-      flex: 1 0 20%;
-      max-width: 20%;
-        margin: 10px;
+      flex: 1 0 18%;
+      max-width: 18%;
     }
   }
   /* A large grid might need four columns on widescreen layouts */
