@@ -259,14 +259,21 @@ section.success {
       flex-flow: row wrap;
       align-items: stretch;
       justify-content: space-between;
+      gap: 10px;
     }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 20%;
       max-width: 20%;
-        margin: 10px;
     }
   }
   @media (min-width: 960px) {
+      .portfolio-flex-grid .portfolio-flex-row {
+      display: flex;
+      flex-flow: row wrap;
+      align-items: stretch;
+      justify-content: space-between;
+      gap: 10px;
+    }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 20%;
       max-width: 20%;
