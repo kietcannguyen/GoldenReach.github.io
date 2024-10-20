@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: Claire-Garcon
+modal-id: GoldenReachOrganization-Team
 date: 2024-08-12
 img: 1GoldenReach.jpg
 alt: image-alt
