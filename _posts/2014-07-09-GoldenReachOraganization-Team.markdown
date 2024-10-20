@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: GoldenReachOrganization-Team
+modal-id: Claire-Garcon
 date: 2014-07-16
-img: 1GoldenReach.jpg
+img: 9Claire G.jpg
 alt: image-alt
-description: Meet the dedicated leaders of Golden Reach Organization, a youth-driven team making an impact.
+description: Hi im Claire Garcon.
 ---
